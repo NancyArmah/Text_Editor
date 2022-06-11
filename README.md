@@ -1,6 +1,6 @@
-# Text_Editor
+# Text Editor
 
-Simple Text Editor built using Python's built-in GUI "Tkinter"!
+Simple Text Editor built using Python's built-in GUI "Tkinter."
 
 [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
